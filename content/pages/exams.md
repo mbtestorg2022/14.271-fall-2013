@@ -8,4 +8,4 @@ This section contains the midterm and 3-hour final exam for the course. Along wi
 
 [Midterm Exam (PDF)]({{< baseurl >}}/resources/mit14_271f13_midterm)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Exam (PDF)]({{< baseurl >}}/resources/mit14_271f13_finaexam)
+[Final Exam (PDF)]({{< baseurl >}}/resources/mit14_271f13_finaexam)

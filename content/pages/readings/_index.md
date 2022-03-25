@@ -74,7 +74,7 @@ Static Competition and Models of Differentiation
 
 \[Tirole\] Section 2.1, and Chapter 5.
 
-Bresnahan, Timothy F. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Competition and Collusion in the American Automobile Industry: The 1955 Price War." (PDF)](http://pages.stern.nyu.edu/~acollard/Bresnahan1955.pdf) _Journal of Industrial Economics_ 35, no. 4 (1987): 457–82.
+Bresnahan, Timothy F. ["Competition and Collusion in the American Automobile Industry: The 1955 Price War." (PDF)](http://pages.stern.nyu.edu/~acollard/Bresnahan1955.pdf) _Journal of Industrial Economics_ 35, no. 4 (1987): 457–82.
 
 Ellison, Glenn. "[A Model of Add-on Pricing](http://dx.doi.org/10.1093/qje/120.2.585)." _Quarterly Journal of Economics_ 120, no. 2 (2005): 585–637.
 
@@ -96,9 +96,9 @@ Dynamic Competition
 
 Porter, Robert H. "[A Study of Cartel Stability: The Joint Economic Committee, 1880–1886](http://econpapers.repec.org/article/rjebellje/v_3a14_3ay_3a1983_3ai_3aautumn_3ap_3a301-314.htm)." _Bell Journal of Economics_ 14, no. 2 (1983): 301–14.
 
-Ellison, Glenn. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Theories of Cartel Stability and the Joint Executive Committee." (PDF - 1.3MB)](http://economics.mit.edu/files/871) _RAND Journal of Economics_ 25, no. 1 (1994): 37–57.
+Ellison, Glenn. ["Theories of Cartel Stability and the Joint Executive Committee." (PDF - 1.3MB)](http://economics.mit.edu/files/871) _RAND Journal of Economics_ 25, no. 1 (1994): 37–57.
 
-Maskin, Eric, and Jean Tirole. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"A Theory of Dynamic Oligopoly II: Price Competition, Kinked Demand Curves, and Edgeworth Cycles." (PDF)](http://scholar.harvard.edu/files/maskin/files/a_theory_of_dynamic_oligopoly_ii_price_competition_kinked_demand_curves_and_edgeworth_cycles.pdf) _Econometrica_ 56, no. 3 (1988): 571–99.
+Maskin, Eric, and Jean Tirole. ["A Theory of Dynamic Oligopoly II: Price Competition, Kinked Demand Curves, and Edgeworth Cycles." (PDF)](http://scholar.harvard.edu/files/maskin/files/a_theory_of_dynamic_oligopoly_ii_price_competition_kinked_demand_curves_and_edgeworth_cycles.pdf) _Econometrica_ 56, no. 3 (1988): 571–99.
 
 Noel, Michael D. "[Edgeworth Price Cycles: Evidence from the Toronto Retail Gasoline Market](http://dx.doi.org/10.1111/j.1467-6451.2007.00303.x)." _Journal of Industrial Economics_ 55, no. 1 (2007): 69–92.
 
@@ -120,7 +120,7 @@ Stahl, Dale O. "[Oligopolistic Pricing with Heterogeneous Consumer Search](http:
 
 Wolinsky, Asher. "[Product Differentiation with Imperfect Information](http://dx.doi.org/10.2307/2297704)." _Review of Economic Studies_ 51, no. 1 (1984): 53–61.
 
-Sorensen, Alan T. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Equilibrium Price Dispersion in Retail Markets for Prescription Drugs." (PDF)](http://www.ssc.wisc.edu/~sorensen/papers/sorensen_JPE_2000.pdf) _Journal of Political Economy_ 108, no. 4 (2000): 833–50.
+Sorensen, Alan T. ["Equilibrium Price Dispersion in Retail Markets for Prescription Drugs." (PDF)](http://www.ssc.wisc.edu/~sorensen/papers/sorensen_JPE_2000.pdf) _Journal of Political Economy_ 108, no. 4 (2000): 833–50.
 
 Ellison, Glenn, and Sara Fisher Ellison. "[Search, Obfuscation, and Price Elasticities on the Internet](http://dx.doi.org/10.3982/ECTA5708)." _Econometrica_ 77, no. 2 (2009): 427–52.
 
@@ -156,9 +156,9 @@ Entry
 
 \[Tirole\] Sections 7.1–7.2.
 
-Bresnahan, Timothy F., and Peter C. Reiss. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Entry and Competition in Concentrated Markets." (PDF - 2.3MB)](http://pages.stern.nyu.edu/~acollard/bresnahan-reiss.pdf) _Journal of Political Economy_ 99, no. 5 (1991): 977–1009.
+Bresnahan, Timothy F., and Peter C. Reiss. ["Entry and Competition in Concentrated Markets." (PDF - 2.3MB)](http://pages.stern.nyu.edu/~acollard/bresnahan-reiss.pdf) _Journal of Political Economy_ 99, no. 5 (1991): 977–1009.
 
-Berry, Steven T., and Joel Waldfogel. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Free Entry and Social Inefficiency in Radio Broadcasting." (PDF - 1.3MB)](http://www.econ.umn.edu/~holmes/class/2004f8601/papers/berry_waldfogel_rand_1999.pdf) _RAND Journal of Economics_ 30, no. 3 (1999): 397–420.
+Berry, Steven T., and Joel Waldfogel. ["Free Entry and Social Inefficiency in Radio Broadcasting." (PDF - 1.3MB)](http://www.econ.umn.edu/~holmes/class/2004f8601/papers/berry_waldfogel_rand_1999.pdf) _RAND Journal of Economics_ 30, no. 3 (1999): 397–420.
 
 
 {{< tdclose >}}
@@ -176,7 +176,7 @@ Strategic Investment
 
 \[Tirole\] Chapter 8, pp. 207–8.
 
-Chevalier, Judith A. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Capital Structure and Product-Market Competition: Empirical Evidence from the Supermarket Industry." (PDF - 2.5MB)](http://stuff.mit.edu/afs/athena/course/14/14.33/www/chevalier.pdf) _American Economic Review_ 85, no. 3 (1995): 415–35.
+Chevalier, Judith A. ["Capital Structure and Product-Market Competition: Empirical Evidence from the Supermarket Industry." (PDF - 2.5MB)](http://stuff.mit.edu/afs/athena/course/14/14.33/www/chevalier.pdf) _American Economic Review_ 85, no. 3 (1995): 415–35.
 
 Ellison, Glenn, and Sara Fisher Ellison. "[Strategic Entry Deterrence and the Behavior of Pharmaceutical Incumbents Prior to Patent Expiration](http://dx.doi.org/10.1257/mic.3.1.1)." _American Economic Journal: Microeconomics_ 3, no. 1 (2011): 1–36.
 
