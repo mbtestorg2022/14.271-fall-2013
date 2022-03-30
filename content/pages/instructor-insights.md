@@ -26,7 +26,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_14.04 Intermediate Microeconomic Theory_](/courses/14-04-intermediate-microeconomic-theory-fall-2006/)
+[_14.04 Intermediate Microeconomic Theory_](/courses/14-04-intermediate-microeconomic-theory-fall-2006)
 
 ### Requirements Satisfied
 
